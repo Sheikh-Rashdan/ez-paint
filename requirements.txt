@@ -1,0 +1,7 @@
+customtkinter
+CTkMessagebox
+CTkColorPicker
+CTkToolTip
+CTkSpinbox
+hPyT
+pygame-ce
