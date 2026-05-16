@@ -17,7 +17,7 @@ A simple paint app, made with python using customtkinter, to draw and erase in m
   Main Page
 </p>
 
-<br><br><br>
+<br />
 
 <p align="center">
   <img src="https://github.com/Sheikh-Rashdan/ez-paint/blob/master/display/2.png" width=315px height=500px>
